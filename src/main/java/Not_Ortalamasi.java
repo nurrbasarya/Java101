@@ -1,7 +1,7 @@
 
 import  java.util.Scanner;
 
-public class Not_Ortalaması {
+public class Not_Ortalamasi {
     public static void main(String[] args) {
     int mat,turkce,fizik,muzik,kimya,tarih;
     Scanner input=new Scanner(System.in);
